@@ -1,3 +1,4 @@
+//I'm so sorry for submitting late,i was finding it hard to get the answers,not to even talk of providing a source code,that was hard and stressful.
 function calculate(a,b,operation){
     if(operation==='add'){
     return a + b;
